@@ -5,7 +5,12 @@
 ## Controls:
 
 Movement:
-← - left;
-→ - right; 
-↑ - up;
-↓ - down;
+* ← - left  
+* → - right   
+* ↑ - up  
+* ↓ - down  
+
+# Press SPACE to change circle to "test.png" image* 
+![image](https://user-images.githubusercontent.com/39462249/115279605-9b9a4880-a14f-11eb-9210-c51bab1ce033.png)
+
+*_In order for this to work, your image must be placed in the same as your .exe file/project directory._
